@@ -2,7 +2,7 @@
 
 [![Energiz3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=energiz3r&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energiz3r&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energiz3r&theme=radical&show_icons=true&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Energiz3r/Energiz3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
