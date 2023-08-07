@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Tim 👋
+
+[![Energiz3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=energiz3r)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Energiz3r/Energiz3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
